@@ -1,4 +1,4 @@
-## This is my first blog post
+### This is my first blog post
 # My Quick Take on the Role of Data Scientists
 
 A data scientist must be familiar with all aspects of their organization, aware of the data it has, and able to communicate with stakeholders clearly to inform decision making. They must understand how to employ and how to value the tools at their disposal, whether the tool is a team member who can program or an application simplifying machine learning. 
@@ -7,7 +7,11 @@ But to really hold the title of data scientist and be reliable and essential wit
 
 I think any employer giving an employee broad access to its data must be aware of the risks inherent in sharing this information. Whether it’s private medical details, financial transactions, strategic business plans, or military troop numbers, leaders have much at stake within the data they collect. 
 
-With apologies for my limited understanding of what statisticians do, I think we could fairly state that a data scientist is a statistician with a particular set of skills, including some programming. Kind of a special *flavor* of statistician!
+## Data Science vs. Statistics
+
+With apologies for my limited understanding of what statisticians do, I think we could fairly state that a data scientist is a statistician with a particular set of skills, including some programming. Kind of a special *flavor* of statistician! I do not believe, based on the articles I was assigned to read, as well as my own set of experiences, that a statistician necessarily has to be capable of data science. Computer programming and a level of expertise in a subject other than stats are not requirements to be a statistician, but are necessary for a successful data scientist. Perhaps a data scientist does not always need to have as great an understanding of statistics as someone serving in a statistician role. But a strong understanding of statistics certainly would make a stronger data scientist, able to more confidently find and explore questions and solutions through data. 
+
+## Me
 
 My perspective is, of course, formed through my own experiences. I don't fit neatly into the data scientist or statistician bin at all. My background includes forays into military rotary wing aviation, leadership, economics (undergraduate), and (lately) operations research. (Side note: Operations research is another interdisciplinary field with a really *squishy* definition)
 
