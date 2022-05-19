@@ -9,7 +9,7 @@ I think any employer giving an employee broad access to its data must be aware o
 
 With apologies for my limited understanding of what statisticians do, I think we could fairly state that a data scientist is a statistician with a particular set of skills, including some programming. Kind of a special *flavor* of statistician!
 
-My perspective is, of course, formed through my own experiences. My background includes forays into military rotary wing aviation, leadership, economics (undergraduate), and (lately) operations research. (Side note: Operations research is another interdisciplinary field with a really *squishy* definition)
+My perspective is, of course, formed through my own experiences. I don't fit neatly into the data scientist or statistician bin at all. My background includes forays into military rotary wing aviation, leadership, economics (undergraduate), and (lately) operations research. (Side note: Operations research is another interdisciplinary field with a really *squishy* definition)
 
 I find many of the hard skills I have studied in these fields are incredibly perishable and also time consuming. The impact of those qualities is that moving to a new field can prevent a person from considering themselves a member of a previous field, even when the areas seem complementary.
 
