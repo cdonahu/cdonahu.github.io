@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+This website will be maintained publicly during summer term 2022.
 
-Maybe say a some things about yourself.
+Then it will probably disappear.
 
-Or maybe what you plan to blog about.
+I look forward to trying it out!
