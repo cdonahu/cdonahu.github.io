@@ -3,6 +3,7 @@ title: "Programming Background"
 author: "Claudia Donahue"
 date: '2022-06-06'
 output: 'github_document'
+---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
@@ -21,8 +22,11 @@ I don't think I will miss much about other programming languages, especially Pyt
 
 ## R Markdown Output  
 
-```{r, Plot of Iris data}
-plot(iris)
+Below, I am going to plot the Cars data set to make sure I can get the image to show up on my blog post: 
+
+```{r, Plot of Cars data}
+plot(cars, xlab = "Speed (mph)", ylab = "Stopping distance (ft)",
+    las = 1, xlim = c(0, 25))
 ```
 
 ```{r, eval = FALSE, include=FALSE}

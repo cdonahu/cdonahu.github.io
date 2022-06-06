@@ -1,7 +1,7 @@
-------------------------------------------------------------------------
-
-title: “Programming Background” author: “Claudia Donahue” date:
-‘2022-06-06’ output: ‘github_document’
+Programming Background
+================
+Claudia Donahue
+2022-06-06
 
 ## My Experience So Far
 
@@ -31,8 +31,12 @@ French.
 
 ## R Markdown Output
 
+Below, I am going to plot the Cars data set to make sure I can get the
+image to show up on my blog post:
+
 ``` r
-plot(iris)
+plot(cars, xlab = "Speed (mph)", ylab = "Stopping distance (ft)",
+    las = 1, xlim = c(0, 25))
 ```
 
-![](../images/Plot%20of%20Iris%20data-1.png)<!-- -->
+![](../images/Plot%20of%20Cars%20data-1.png)<!-- -->
