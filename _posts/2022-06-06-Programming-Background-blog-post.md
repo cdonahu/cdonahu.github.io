@@ -35,4 +35,4 @@ French.
 plot(iris)
 ```
 
-![](../images/unnamed-chunk-1-1.png)<!-- -->
+![](../images/Plot%20of%20Iris%20data-1.png)<!-- -->

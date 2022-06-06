@@ -21,7 +21,7 @@ I don't think I will miss much about other programming languages, especially Pyt
 
 ## R Markdown Output  
 
-```{r}
+```{r, Plot of Iris data}
 plot(iris)
 ```
 
