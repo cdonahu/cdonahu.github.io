@@ -29,4 +29,16 @@ I am happy to be getting more comfortable using github for version control. [Her
 Next time I have a project like this, I like to think I will start earlier and ask for help (probably) to make sure I can properly use the data I want to use (Pokemon -- to get my kids interested in data science). I also probably will not choose an API just based on whether I have to sign up for my own key. Who knows--I might even pay my own money for access to an API one day! 
 
 ## Last thing  
-[Here](https://github.com/cdonahu/cdonahu.github.io) is the link to my github pages repo. 
+[Here](https://cdonahu.github.io/ST558-project-1) is the link to my github pages repo. 
+
+```{r, eval = FALSE, include=FALSE}
+library(rmarkdown)
+rmarkdown::render('./_Rmd/2022-06-26-Vignette-blog-post.Rmd',
+                  output_format = 'github_document',
+                  output_dir = './_posts/',
+                  output_options = list(
+                    df_print = 'default',
+                    html_preview = FALSE # to remove .html file creation
+                    )
+                  )
+```
