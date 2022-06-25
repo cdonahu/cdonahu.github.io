@@ -29,7 +29,7 @@ I am happy to be getting more comfortable using github for version control. [Her
 Next time I have a project like this, I like to think I will start earlier and ask for help (probably) to make sure I can properly use the data I want to use (Pokemon -- to get my kids interested in data science). I also probably will not choose an API just based on whether I have to sign up for my own key. Who knows--I might even pay my own money for access to an API one day! 
 
 ## Last thing  
-[Here](https://cdonahu.github.io/ST558-project-1/Vignette-covid-data) is the link to my github pages repo for this project. 
+[Here](https://cdonahu.github.io/ST558-project-1/) is the link to my github pages repo for this project. 
 
 ```{r, eval = FALSE, include=FALSE}
 library(rmarkdown)

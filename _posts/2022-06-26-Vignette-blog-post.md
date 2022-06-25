@@ -49,5 +49,5 @@ for access to an API one day!
 
 ## Last thing
 
-[Here](https://cdonahu.github.io/ST558-project-1/Vignette-covid-data) is
-the link to my github pages repo for this project.
+[Here](https://cdonahu.github.io/ST558-project-1/) is the link to my
+github pages repo for this project.
