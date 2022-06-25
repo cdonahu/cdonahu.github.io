@@ -17,6 +17,3 @@ You can expect me to cover topics like:
   - Traveling over a weekend or two  
   - Figuring out current and future childcare, a constant work in progress  
 
-## Photo  
-![Bruin](https://user-images.githubusercontent.com/105885510/170123601-36ce6511-7d5f-43a3-b39f-4a5109e77ce3.jpg)  
-This is a photo I like--it's our dog, Bruin. I may add some more photos at a later date.   
