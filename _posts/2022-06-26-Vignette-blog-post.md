@@ -50,4 +50,5 @@ for access to an API one day!
 ## Last thing
 
 [Here](https://cdonahu.github.io/ST558-project-1/) is the link to my
-github pages repo for this project.
+github pages repo for this project. I made it public on the due date for
+the project, as directed.
