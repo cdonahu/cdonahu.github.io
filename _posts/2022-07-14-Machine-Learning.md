@@ -33,10 +33,8 @@ useful in highlighting feature importance.
 
 I liked using the `caret` package because it simplified training a huge
 variety of models. Here we will fit a model using `caret::train`, and
-then display the tree to show how cool it is as a tool to understand the
-importance of different variables. Here I will fit a model on a
-partitioned part of the Titanic data, called `training`, and then I will
-display a visualization of the resulting tree:
+then display a visualization of the resulting tree to show how cool it
+is as a tool to understand the importance of different variables:
 
 ``` r
 library(caret)
@@ -83,9 +81,11 @@ great datasets I’m eyeing are:
     safety measures for alternative transportation.
 
 A decision tree with this sort of data may enable a community leader to
-plugg in locally relevant observations and understand the likelihood of
-bike/pedestrian fatalities if nothing changes. They could also get an
-idea where bike/ped funding would make the most impact.
+plug in locally relevant observations (themselves/their
+neighborhoods/their grandkids) and understand the likelihood of
+bike/pedestrian fatalities if nothing changes. They could get an idea
+where in the community bike/pedestrian funding would make the largest
+impact.
 
 Hopefully I can use the skills I’m gaining this summer to make a
 positive impact!
