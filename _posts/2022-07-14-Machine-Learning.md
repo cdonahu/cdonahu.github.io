@@ -34,7 +34,9 @@ useful in highlighting feature importance.
 I liked using the `caret` package because it simplified training a huge
 variety of models. Here we will fit a model using `caret::train`, and
 then display a visualization of the resulting tree to show how cool it
-is as a tool to understand the importance of different variables:
+is as a tool to understand the importance of different variables. We are
+predicting survival based on variables like age, passenger class, ticket
+fare, and sex:
 
 ``` r
 library(caret)
@@ -51,7 +53,7 @@ library(rattle)
 fancyRpartPlot(fit$finalModel)
 ```
 
-![](./_images/classification%20tree%20with%20caret::train-1.png)<!-- -->
+![](./images/classification%20tree%20with%20caret::train-1.png)<!-- -->
 
 You could take your own characteristics, for example, and follow through
 this tree to get a prediction on whether you would have survived the

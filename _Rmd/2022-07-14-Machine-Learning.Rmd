@@ -6,7 +6,7 @@ date: '2022-07-14'
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_chunk$set(fig.path = './_images/')
+knitr::opts_chunk$set(fig.path = './images/')
 ```
 
 ## Learning About Machine Learning  
@@ -41,7 +41,7 @@ levels(training$Survived) <- list("Died" = 0, "Survived" = 1)
 training <- dplyr::select(training, -c(PassengerId, Name, Ticket, Cabin))
 ```
 
-I liked using the `caret` package because it simplified training a huge variety of models. Here we will fit a model using `caret::train`, and then display a visualization of the resulting tree to show how cool it is as a tool to understand the importance of different variables:   
+I liked using the `caret` package because it simplified training a huge variety of models. Here we will fit a model using `caret::train`, and then display a visualization of the resulting tree to show how cool it is as a tool to understand the importance of different variables. We are predicting survival based on variables like age, passenger class, ticket fare, and sex:   
 
 ```{r classification tree with caret::train, message=FALSE}
 library(caret)
