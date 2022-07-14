@@ -1,0 +1,33 @@
+---
+title: "Machine Learning Module"
+author: "Claudia Donahue"
+date: '2022-07-14'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+
+
+
+
+
+
+
+
+
+
+```{r, eval = FALSE, include=FALSE}
+library(rmarkdown)
+rmarkdown::render('./_Rmd/2022-07-14-Machine-Learning.Rmd',
+                  output_format = 'github_document',
+                  output_dir = './_posts/',
+                  output_options = list(
+                    df_print = 'default',
+                    html_preview = FALSE # to remove .html file creation
+                    )
+                  )
+```
