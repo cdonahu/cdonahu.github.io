@@ -6,7 +6,7 @@ date: '2022-07-14'
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_chunk$set(fig.path = './images/')
+knitr::opts_chunk$set(fig.path = '../images/')
 ```
 
 ## Learning About Machine Learning  
@@ -43,7 +43,7 @@ training <- dplyr::select(training, -c(PassengerId, Name, Ticket, Cabin))
 
 I liked using the `caret` package because it simplified training a huge variety of models. Here we will fit a model using `caret::train`, and then display a visualization of the resulting tree to show how cool it is as a tool to understand the importance of different variables. We are predicting survival based on variables like age, passenger class, ticket fare, and sex:   
 
-```{r classification tree with caret::train, message=FALSE}
+```{r classification tree, message=FALSE}
 library(caret)
 fit <- train(x = training[,2:8], 
                 y = training[,1],
@@ -79,7 +79,7 @@ Hopefully I can use the skills I'm gaining this summer to make a positive impact
 
 
 
-```{r, eval = FALSE, include=FALSE}
+```{r code to generage blog post, eval = FALSE, include=FALSE}
 library(rmarkdown)
 rmarkdown::render('./_Rmd/2022-07-14-Machine-Learning.Rmd',
                   output_format = 'github_document',

@@ -53,7 +53,7 @@ library(rattle)
 fancyRpartPlot(fit$finalModel)
 ```
 
-![](./images/classification%20tree%20with%20caret::train-1.png)<!-- -->
+![](../images/classification%20tree-1.png)<!-- -->
 
 You could take your own characteristics, for example, and follow through
 this tree to get a prediction on whether you would have survived the
