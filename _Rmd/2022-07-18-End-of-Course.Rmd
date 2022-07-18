@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Module"
+title: "End of the Term"
 author: "Claudia Donahue"
 date: '2022-07-18'
 ---
