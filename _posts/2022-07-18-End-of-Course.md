@@ -1,4 +1,4 @@
-Machine Learning Module
+End of the Term
 ================
 Claudia Donahue
 2022-07-18
@@ -31,9 +31,12 @@ my employer. I also already have a request from a friend in my
 neighborhood to help them with some modeling. I am looking forward to
 seeing how I can help!
 
-I think at work, I will be exploring how to efficiently create
-dashboards useful for leaders in my organization. In my community, I
-like the idea of presenting publicly available data in ways others can
-better understand and draw conclusions. I am looking forward to
-completing my final project Shiny App with multiple pages and
-brainstorming similar things I could create as community tools.
+At work, I am sure I’ll be exploring how to efficiently create
+dashboards useful for leaders in my organization.
+
+In my community, I like the idea of presenting publicly available data
+in ways others can better understand and draw conclusions.
+
+I am looking forward to completing my final project Shiny App with
+multiple pages and brainstorming similar things I could create as
+community tools.
